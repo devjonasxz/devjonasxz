@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨Criando meu portilofio ...<br>📚 Sempre estudando e aprimorando ...<br>🎯 Developer - Michigan RPG ...<br>🎲 sou preguicoso ...</p>
+<p align="left">✨Criando meu portilofio ...<br>📚 Sempre estudando e aprimorando ...<br>🎯 Developer - SupreM RPG ...<br>🎲 sou preguicoso ...</p>
 
 ###
 
