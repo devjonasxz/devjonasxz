@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Jonas, sou conhecido como Shawty.
 Discord: shawty.rj
 
-![devjonasxz GitHub stats](https://github-readme-stats.vercel.app/api?username=Vexy-dev&show_icons=true&theme=onedark)
+![devjonasxz GitHub stats](https://github-readme-stats.vercel.app/api?username=devjonasxz&show_icons=true&theme=onedark)
 
 ## Tecnologias que eu uso no meu dia a dia:
 
