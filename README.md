@@ -18,10 +18,8 @@
 
 ---
 
-### 🎯 My Current Focus
-
 <p>
-  I am currently focused on developing high-performance web applications, exploring different architectures, and improving my skills in deployment automation.
+  I am currently working on server projects for GTA across various platforms, both for SA, FIVEM, and MTA.
 </p>
 
 ### 💻 Technologies & Tools
