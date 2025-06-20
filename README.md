@@ -17,6 +17,7 @@
 </p>
 
 ---
+### 🎯 My Current Focus
 
 <p>
   I am currently working on server projects for GTA across various platforms, both for SA, FIVEM, and MTA.
