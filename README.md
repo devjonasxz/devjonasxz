@@ -27,19 +27,19 @@
 ### 💻 Technologies & Tools
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.dndbeyond.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dungeons-and-dragons/dungeons-and-dragons-original.svg" alt="dnd" width="40" height="40"/></a>
-  <a href="https://github.com/devjonasxz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://fivem.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fivem/fivem-original.svg" alt="fivem" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.compuphase.com/pawn/pawn.htm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/pawn-lang/op-lang-brand/main/package/icon/pawn-icon-color.svg" alt="pawn" width="40" height="40"/></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40"/></a>
+  <img align="center" alt="shawty" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="shawty" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="shawty" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="shawty" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="shawty" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
+  <img align="center" alt="shawty" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="shawty" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+  <img align="center" alt="shawty" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="shawty" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
+  <img align="center" alt="shawty" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg">
+  <img align="center" alt="shawty" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="shawty" height="30" width="40" src="https://i.imgur.com/VJLHjfM.png">
+  <img align="center" alt="shawty" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg">
 </p>
 
 ---
