@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header com gradiente animado -->
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Jonasxz%20🚀&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Ecosystem%20Specialist&descAlignY=60&descAlign=50"/>
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Socket%20💻&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Ecosystem%20Specialist&descAlignY=60&descAlign=50"/>
 
 <!-- Typing animation -->
 <p align="center">
